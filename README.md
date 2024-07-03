@@ -27,5 +27,5 @@ If you encounter any issues while using the Horra Foods Barcode Generator, pleas
 4. If the issue persists, please contact the Horra Foods IT support team for further assistance.
 
 ## Contributing
-Contributions to the Horra Foods Barcode Generator are welcome. If you find any bugs, have suggestions for new features, or would like to contribute to the codebase, please feel free to open a new issue or submit a pull request.
+If you find any bugs, have suggestions for new features, or would like to contribute to the codebase, please feel free to open a new issue or submit a pull request.
 
