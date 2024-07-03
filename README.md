@@ -10,7 +10,7 @@ The Horra Foods Barcode Generator is a custom-made application developed in C# t
 - **Integration**: The generated barcodes can be easily integrated into the Horra Foods inventory management system, ensuring seamless data transfer and tracking.
 - **User-Friendly Interface**: The application's intuitive user interface makes it easy for Horra Foods employees to use and navigate.
 ## Screenshots
-![Horra Foods Factory's barcode Generator ](barcode.png)
+![Horra Foods Factory's barcode Generator ](barcode.jpg)
 ## Usage
 1. Launch the Horra Foods Barcode Generator application.
 2. Select the desired barcode type and customize the settings as needed.
